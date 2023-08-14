@@ -1,0 +1,19 @@
+{
+    "name": "damanmokha/otp-verification",
+    "description": "A class for sending and verifiing otp using twillio",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Damanmokha\\OtpVerification\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daman Mokha",
+            "email": "damanmokha24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
