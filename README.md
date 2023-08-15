@@ -94,7 +94,14 @@ A Laravel package for sending and verifying OTPs (One-Time Passwords) using Twil
         }
     }
     ```
+
+Visit the [GitHub repository](https://github.com/damanmokha/laravel-test/tree/dev-otp-verification) for more details and to explore the implementation.
+
+
     
 ## License
 
 This package is open-sourced software licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+
+Feel free to fork, clone, or use this demo application as a reference for implementing OTP verification in your Laravel projects.
