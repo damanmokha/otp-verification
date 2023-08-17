@@ -40,6 +40,7 @@ A Laravel package for sending and verifying OTPs (One-Time Passwords) using Twil
         ],
     ];
     ```
+5. You can set `OTP_SIZE` in .env to configure custom OTP size, default is to `4`
     
 ## Usage
 
