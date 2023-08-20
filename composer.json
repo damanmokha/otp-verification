@@ -17,7 +17,8 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0",
-        "twilio/sdk": "^7.7"
+        "twilio/sdk": "^7.7",
+        "laravel/framework": "^10.10",
     },
     "extra": {
         "laravel":{
