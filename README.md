@@ -11,9 +11,9 @@ A Laravel package for sending and verifying OTPs (One-Time Passwords) using Twil
 
 2. Publish the migrations to set up the required database table:
     ```
-    php artisan vendor:publish --tag=otp-verification-migrations
     php artisan migrate
     ```
+   If you wish to modify migrations you can publish it using `php artisan vendor:publish --tag=otp-verification-migrations`
 
 3. Add your Twilio credentials to your ```.env``` file:
 
